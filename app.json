@@ -1,0 +1,16 @@
+{
+  "name": "Private ZeroNet Proxy on Heroku",
+  "description": "Host ZeroNet on Heroku as a private proxy service",
+  "website": "http://bruce-lab.blogspot.com",
+  "repository": "https://github.com/BruceJawn/HeroNet",
+  "logo": "https://github.com/BruceJawn/HeroNet/raw/master/logo.png",
+  "keywords": ["python", "zeronet", "proxy"], 
+  "buildpacks": [
+     {
+      "url": "https://github.com/BruceJawn/heroku-buildpack-ZeroNet"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
