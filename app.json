@@ -1,5 +1,5 @@
 {
-  "name": "Private ZeroNet Proxy on Heroku",
+  "name": "Private-ZeroNet-Proxy",
   "description": "Host ZeroNet on Heroku as a private proxy service",
   "website": "http://bruce-lab.blogspot.com",
   "repository": "https://github.com/BruceJawn/HeroNet",
